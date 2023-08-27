@@ -1,5 +1,5 @@
 # INTERNET-CAFE
-                                            __NETWORK DESIGN PROPOSAL FOR INTERNET CAFE__
+                                            **NETWORK DESIGN PROPOSAL FOR INTERNET CAFE**
 
 ![Internet Cafe Network](https://github.com/Shahid-1102/INTERNET-CAFE/assets/102601195/2358cc68-d859-40dd-8f5f-840770bafdbe)
 
