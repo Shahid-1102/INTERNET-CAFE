@@ -1,6 +1,8 @@
 # INTERNET-CAFE
 NETWORK DESIGN PROPOSAL FOR INTERNET CAFE
 
+![Internet Cafe Network](https://github.com/Shahid-1102/INTERNET-CAFE/assets/102601195/2358cc68-d859-40dd-8f5f-840770bafdbe)
+
 The objective of this project is to propose a network design solution for an Internet cafe that needs to support 30 users sharing one ADSL internet connection. The cafe also requires a web filtering device or software to restrict access to inappropriate websites and a billing software to manage customer accounts and usage.
 
 
